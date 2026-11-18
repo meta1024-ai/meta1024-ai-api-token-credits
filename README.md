@@ -1,4 +1,4 @@
-# Meta1024 AI API
+# Meta1024 AI API Token Credits
 
 Access multiple AI models with one API.
 
