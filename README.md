@@ -9,7 +9,7 @@ Meta1024 helps developers and teams connect, manage and use AI models from one p
 1. Create an account: https://new-api.aicarb.com/
 2. Create your API key.
 3. Add AI Token credits.
-4. Follow the setup guides.
+4. Follow the setup guides.https://docs.aicarb.com/
 
 ## Documentation
 
